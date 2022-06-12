@@ -1,0 +1,1 @@
+This is a terminal game made with C++. Start by opening it in a code editor and run it into the terminal
